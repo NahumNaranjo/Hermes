@@ -4,9 +4,9 @@ By the way, it's called Hermes because that guy was gods' messenger just like th
 
 ## Functions
 - **Stop(void)**: Will stop the console until the user presses a enter.
-- **StopM(char* msg)**: Will stop the console and display a custom message.
+- **StopM(char msg)**: Will stop the console and display a custom message.
 - **clearUntil(void)**: Will stop the console and clear once the user presses enter.
-- **clearConsoleM(char* message)**: Will clear the console and show a custom message.
+- **clearConsoleM(char message)**: Will clear the console and show a custom message.
 - **clearConsole(void)**: Will simply clear the console.
 
 ## Technical data
@@ -16,4 +16,4 @@ By the way, it's called Hermes because that guy was gods' messenger just like th
 Download it from this repository and add the header to your project or use `cl -i hermes` in your console if you have CLearning installed
 
 ### Version
-1.0.0 - Author: Nahum Naranjo
+1.0.0a - Author: Nahum Naranjo
