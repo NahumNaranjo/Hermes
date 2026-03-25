@@ -1,5 +1,5 @@
 # Hermes
-A simple CLearning crossover. This repository is part of CLearning's ecosystem and was made to help other tool's development. If you find it useful, use it. In summary, Hermes is a simple header-only console managment library various stop and clear functions.  
+A simple CLearning crossover. This repository is part of CLearning's ecosystem and was made to help other tool's development. If you find it useful, use it. In summary, Hermes is a simple header-only console managment library with various stop and clear functions.  
 By the way, it's called Hermes because that guy was gods' messenger just like this lib helps you communicate with the user in an easier way  
 
 ## Functions
@@ -16,5 +16,5 @@ By the way, it's called Hermes because that guy was gods' messenger just like th
 Download it from this repository and add the header to your project or use `cl -i hermes` in your console if you have CLearning installed
 
 ### Version
-1.0.0a - Console Manager
+1.0.0b - Console Manager
 Author: Nahum Naranjo
