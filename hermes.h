@@ -49,4 +49,11 @@
         while ((c = getchar()) != '\n' && c != EOF);
     }
 
+    // Reads line
+    static inline char* readLine(void){
+        char* returning;
+        fgets(returning, 0, stdin);
+        return returning;
+    }
+
 #endif
