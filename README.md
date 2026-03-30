@@ -17,5 +17,5 @@ By the way, it's called Hermes because that guy was gods' messenger just like th
 Download it from this repository and add the header to your project or use `cl -i hermes` in your console if you have CLearning installed
 
 ### Version
-1.0.1 - Console Manager
+1.0.1a - Console Manager
 Author: Nahum Naranjo
